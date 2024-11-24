@@ -169,3 +169,5 @@ node_modules/
 
 .env
 notebooks/
+
+main.py
