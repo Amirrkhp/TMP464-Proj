@@ -1,0 +1,16 @@
+# Core dependencies
+fastapi==0.95.0
+uvicorn==0.22.0
+python-dotenv==1.0.0
+
+# Pydantic compatible with FastAPI
+pydantic==1.10.19
+
+# Shopify integration
+httpx==0.27.2  # Compatible with mistralai
+
+# Mistral API
+mistralai==1.2.3
+
+# Optional: For llama-index
+llama-index==0.5.6
